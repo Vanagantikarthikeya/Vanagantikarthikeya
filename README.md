@@ -259,11 +259,11 @@ Summer of AI
 
 GitHub
 
-https://github.com/YOUR_GITHUB
+https://github.com/Vanagantikarthikeya
 
 LinkedIn
 
-https://linkedin.com/in/YOUR_LINK
+www.linkedin.com/in/karthikeya-vanaganti
 
 Portfolio
 
@@ -271,7 +271,7 @@ https://YOUR_PORTFOLIO
 
 Email
 
-YOUR_EMAIL
+vanagantikarthik@gmail.com
 
 ---
 
