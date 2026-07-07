@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Developing+Intelligent+Solutions;Exploring+Generative+AI;Learning+Every+Single+Day;Open+to+AI+Engineer+Opportunities" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Vanagantikarthikeya&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Vanagantikarthikeya?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Vanagantikarthikeya?style=for-the-badge" />
 </p>
 
 </div>
@@ -223,11 +223,11 @@ Summer of AI
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=https://github.com/Vanagantikarthikeya&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Vanagantikarthikeya&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Vanagantikarthikeya&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vanagantikarthikeya&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Vanagantikarthikeya&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanagantikarthikeya&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -237,7 +237,7 @@ Summer of AI
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Vanagantikarthikeya&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Vanagantikarthikeya&theme=tokyo-night)
 
 </div>
 
