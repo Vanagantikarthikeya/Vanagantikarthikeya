@@ -223,11 +223,11 @@ Summer of AI
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=https://github.com/Vanagantikarthikeya&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Vanagantikarthikeya&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Vanagantikarthikeya&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -237,7 +237,7 @@ Summer of AI
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Vanagantikarthikeya&theme=tokyo-night)
 
 </div>
 
