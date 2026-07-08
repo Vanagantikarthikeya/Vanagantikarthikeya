@@ -257,3 +257,505 @@ I enjoy transforming ideas into real-world applications while continuously learn
 </div>
 
 ---
+
+# 💼 Professional Experience
+
+## 👨‍💼 Internship Head
+### Gnanadhara Foundation
+
+📍 Current Position
+
+As the **Internship Head**, I lead internship programs while coordinating between mentors, team leads, interns, and organizational management.
+
+### Responsibilities
+
+- 👥 Leading internship programs
+- 📋 Internship Operations Management
+- 🎯 Talent Acquisition
+- 📝 Job Description Analysis
+- 📚 Curriculum Planning
+- 👨‍🏫 Student Mentorship
+- 📊 Weekly Progress Tracking
+- 🤝 Team Coordination
+- 📈 Performance Monitoring
+- 🧩 Problem Solving
+- 🚀 Process Improvement
+
+---
+
+## 🤖 AI Developer
+
+### Summer of AI (Viswam AI)
+
+Worked on AI-related projects focusing on building intelligent applications and exploring modern AI technologies.
+
+### Responsibilities
+
+- AI Application Development
+- Prompt Engineering
+- LLM Exploration
+- AI Workflow Development
+- Team Collaboration
+- Problem Solving
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🚀 .NET Builder
+
+### AI Powered .NET Development Platform
+
+An AI-powered development platform built using **Base44** that accelerates software development using intelligent prompt-driven workflows.
+
+### Features
+
+- 🤖 AI Assisted Development
+- ⚡ Prompt Driven Coding
+- 🏗️ Project Generation
+- 🧠 Smart Code Suggestions
+- 🚀 Productivity Enhancement
+- 📈 Faster Development Workflow
+
+### Technology
+
+```
+Base44
+AI
+Prompt Engineering
+Application Development
+```
+
+### Links
+
+🌐 Live Demo
+
+https://dotnetbuilder.base44.app
+
+💻 Repository
+
+Coming Soon
+
+---
+
+## 📊 Karthikeya Excel
+
+### Intelligent Spreadsheet Platform
+
+A modern spreadsheet application inspired by Microsoft Excel with AI-powered productivity features.
+
+### Features
+
+- Spreadsheet Engine
+- AI Assistant
+- Formula Support
+- Modern UI
+- Productivity Features
+- Responsive Design
+
+### Repository
+
+https://github.com/Vanagantikarthikeya/.NET-Builder-.git
+
+### Live Demo
+
+Coming Soon
+
+---
+
+## 📋 AssessPro
+
+### Organization Assessment Platform
+
+A professional assessment platform developed for an organization.
+
+Due to organizational confidentiality, the production deployment cannot be shared.
+
+However, the repository contains:
+
+- Complete Architecture
+- UI Design
+- Project Documentation
+- System Workflow
+- Development Approach
+
+### Repository
+
+https://github.com/Vanagantikarthikeya/AssessPro.git
+
+### Live Demo
+
+Private
+
+---
+
+## 🤖 College Helpdesk Chatbot
+
+AI-powered chatbot developed for handling college-related queries.
+
+### Features
+
+- Student Support
+- Instant Query Resolution
+- AI Chat Interface
+- Information Retrieval
+- User Friendly Design
+
+### Repository
+
+https://github.com/Vanagantikarthikeya/College-chatbot.git
+
+### Live Demo
+
+Coming Soon
+
+---
+
+## 🧭 OG — Optimal Guide
+
+A smart guidance platform designed to provide structured navigation and intelligent recommendations.
+
+### Features
+
+- Guidance System
+- Intelligent Recommendations
+- User Friendly Interface
+- Scalable Architecture
+
+### Repository
+
+https://github.com/Vanagantikarthikeya/OG.git
+
+### Live Demo
+
+Coming Soon
+
+---
+
+## 💬 Console Chatbot (Gemini)
+
+Console-based chatbot developed using the Gemini API.
+
+### Features
+
+- Gemini Integration
+- Conversational AI
+- Console Application
+- Prompt Engineering
+
+### Repository
+
+https://github.com/Vanagantikarthikeya/Console.Chatbot.Gemini.git
+
+### Live Demo
+
+Not Available
+
+---
+
+# 🏆 Certifications
+
+🏅 Oracle Cloud Infrastructure Foundation Associate
+
+🏅 IBM — Getting Started with AI
+
+🏅 Microsoft — Foundation of C#
+
+🏅 Reliance Foundation — AI Data Engineering
+
+🏅 Simplilearn — Prompt Engineering
+
+🏅 Infosys Springboard Certifications
+
+---
+
+# 🎖️ Achievements
+
+✅ Internship Head at Gnanadhara Foundation
+
+✅ AI Developer — Summer of AI
+
+✅ Built Multiple AI Applications
+
+✅ Built AI Chatbots
+
+✅ Built SaaS Prototypes
+
+✅ Application Architecture Design
+
+✅ AI Prompt Engineering
+
+✅ Technical Leadership
+
+✅ Team Management
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+## 📥 Download My Resume
+
+<a href="https://drive.google.com/file/d/1tyuEFfq00OnCHagCAZpF76GJ_TdET5rd/view?usp=drive_link">
+
+<img src="https://img.shields.io/badge/Download-Resume-success?style=for-the-badge&logo=googledrive"/>
+
+</a>
+
+</div>
+
+---
+
+# 🌟 What Makes Me Different?
+
+✔ AI + Software Development
+
+✔ Vibe Coding + Rapid Prototyping
+
+✔ HR Recruitment Experience
+
+✔ Internship Management
+
+✔ Leadership Experience
+
+✔ Real World AI Projects
+
+✔ Continuous Learning Mindset
+
+✔ Strong Communication Skills
+
+✔ Software Architecture Thinking
+
+✔ Passion for Innovation
+
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+## 📈 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanagantikarthikeya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanagantikarthikeya&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=Vanagantikarthikeya&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vanagantikarthikeya&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanagantikarthikeya&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🚀 Development Journey
+
+```text
+2024
+│
+├── Started building software projects
+├── Explored .NET Development
+├── Learned C#
+│
+2025
+│
+├── AI Development
+├── Prompt Engineering
+├── Internship Experience
+├── Summer of AI
+│
+2026
+│
+├── Internship Head
+├── AI Applications
+├── HR Leadership
+├── Vibe Coding
+├── Architecture Design
+│
+Future
+│
+├── AI Engineer
+├── Application Developer
+├── Technical Leader
+├── Open Source Contributor
+└── Build AI Products Used Worldwide
+```
+
+---
+
+# 📚 Currently Exploring
+
+### 🤖 Artificial Intelligence
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- AI Workflows
+- Generative AI
+- AI Tool Integration
+
+---
+
+### 💻 Software Engineering
+
+- ASP.NET Core
+- .NET Application Development
+- REST APIs
+- Clean Architecture
+- Scalable Software Design
+- Software Engineering Best Practices
+
+---
+
+### ⚡ Vibe Coding
+
+- AI-assisted Development
+- Base44
+- Rapid Prototyping
+- Prompt-to-Application Development
+- AI-first Development Workflow
+
+---
+
+### 🧠 Research Areas
+
+- Natural Language Processing
+- AI Chatbots
+- AI Automation
+- Architecture Design
+- Intelligent Applications
+- AI Productivity Tools
+
+---
+
+# 🎯 2026 Career Roadmap
+
+## Professional Goals
+
+- 🤖 Become an AI Engineer
+
+- 💻 Become an AI Application Developer
+
+- ⚡ Build Enterprise Applications
+
+- 🚀 Master .NET Development
+
+- 🌍 Build SaaS Products
+
+- 🧠 Master LLM Engineering
+
+- 🏗️ Learn Advanced Software Architecture
+
+- 📈 Contribute to Open Source
+
+- 👨‍💼 Lead Technical Teams
+
+- 👥 Build High Performing Teams
+
+---
+
+# 🌟 Professional Values
+
+✔ Continuous Learning
+
+✔ Innovation
+
+✔ Teamwork
+
+✔ Leadership
+
+✔ Problem Solving
+
+✔ Responsibility
+
+✔ Technical Excellence
+
+✔ User-Centric Development
+
+✔ Collaboration
+
+✔ Knowledge Sharing
+
+---
+
+# 💡 Areas of Interest
+
+## 🤖 AI
+
+- Generative AI
+- LLMs
+- AI Agents
+- Chatbots
+- NLP
+- AI Automation
+
+---
+
+## 💻 Software Development
+
+- .NET
+- ASP.NET Core
+- C#
+- Backend Development
+- Application Development
+- Software Architecture
+
+---
+
+## ⚡ Vibe Coding
+
+- AI-assisted Coding
+- Prompt Engineering
+- Rapid MVP Development
+- Product Prototyping
+
+---
+
+## 👥 HR & Leadership
+
+- Talent Acquisition
+- Recruitment
+- Internship Management
+- Team Leadership
+- Mentoring
+- Process Improvement
+
+---
+
+<div align="center">
+
+## 🚀 "Technology + Leadership + Continuous Learning = Meaningful Impact"
+
+</div>
+
+---
