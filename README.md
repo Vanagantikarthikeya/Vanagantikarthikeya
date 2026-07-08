@@ -1,329 +1,259 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Karthikeya+Vanaganti;AI+Engineer+%7C+AI+Application+Developer;Building+AI+Applications+%26+LLM+Solutions;ASP.NET+Developer+%7C+Data+Science+Student;Always+Learning+🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:00E676&height=250&section=header&text=Karthikeya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20.NET%20Developer%20|%20Application%20Developer%20|%20Vibe%20Coder%20|%20Internship%20Head&descAlignY=60" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=Vanagantikarthikeya&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/followers/Vanagantikarthikeya?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/Vanagantikarthikeya?style=for-the-badge" />
+# 👋 Hello, I'm **Karthikeya**
+
+### 🚀 AI Engineer • AI Application Developer • .NET Developer • Vibe Coder • Internship Head • HR Recruitment & Talent Management
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Applications;Developing+.NET+Solutions;Creating+Applications+with+AI;Rapid+Prototyping+using+Vibe+Coding;Internship+Head+%40+Gnanadhara+Foundation;Passionate+about+Learning+and+Innovation;Open+to+AI+%7C+.NET+%7C+HR+Roles" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vanagantikarthikeya&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Vanagantikarthikeya?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Vanagantikarthikeya?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-AI%20Engineer-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-.NET%20Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Application%20Developer-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-HR%20Recruitment-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Vibe%20Coding-purple?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```yaml
-Name: Karthikeya Vanaganti
-
-Role:
-  AI Engineer
-  AI Application Developer
-  .NET Developer
+Name:
+  Karthikeya
 
 Education:
-  B.Tech
-  Data Science
-  Graduation: 2026
+  B.Tech in Data Science (2026)
 
 Current Position:
   Internship Head
   Gnanadhara Foundation
 
-Current Focus:
-  - Artificial Intelligence
-  - Large Language Models
-  - AI Agents
-  - Prompt Engineering
-  - ASP.NET Core
-  - C#
-  - Intelligent Automation
+Interested Roles:
+  AI Engineer
+  AI Application Developer
+  .NET Developer
+  Application Developer
+  Vibe Coder
+  HR Recruitment
+  Talent Acquisition
+  Technical Team Lead
 
 Mission:
-  Build AI Products that solve real-world problems.
+  To build intelligent AI-powered applications,
+  create impactful software,
+  lead high-performing teams,
+  and solve real-world problems using technology.
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Who Am I?
 
-### Languages
+I am a **Data Science undergraduate** with a passion for building **AI-powered applications**, **.NET solutions**, and **rapid prototypes using AI-assisted development**.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+Alongside software development, I have hands-on experience in **Human Resource Management**, **Talent Acquisition**, **Internship Operations**, and **Technical Team Leadership** as the **Internship Head at Gnanadhara Foundation**.
 
----
-
-### Frameworks
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+I enjoy transforming ideas into real-world applications while continuously learning emerging technologies like **Generative AI**, **LLMs**, **RAG**, **NLP**, and modern AI development workflows.
 
 ---
 
-### AI
+# 🎯 Open To Opportunities
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge)
+✅ AI Engineer
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-red?style=for-the-badge)
+✅ AI Application Developer
 
-![LLMs](https://img.shields.io/badge/Large_Language_Models-green?style=for-the-badge)
+✅ .NET Developer
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge)
+✅ Application Developer
 
----
+✅ Software Engineer
 
-### Databases
+✅ Vibe Coding Engineer
 
-SQL Server
+✅ HR Recruitment
 
-MySQL
+✅ Talent Acquisition
 
----
+✅ Internship Program Management
 
-### Tools
-
-Git
-
-GitHub
-
-Visual Studio
-
-VS Code
-
-Postman
-
-Google AI Studio
-
-Base44
-
----
-
-# 🌟 Featured Projects
-
-## 🤖 .NET Builder
-
-AI-powered SaaS platform for accelerating .NET development.
-
-✔ Prompt Driven Development
-
-✔ AI Code Generation
-
-✔ Productivity Tools
-
-✔ Modern UI
-
----
-
-## 🧠 Mood Based Navigation
-
-An AI-powered web application that recommends places based on:
-
-- Mood
-- Weather
-- Distance
-- Events
-- Preferences
-
-Tech
-
-ASP.NET
-
-OpenWeather API
-
-SQL
-
----
-
-## 💬 Gemini Console Chatbot
-
-A C# Console chatbot integrated with Google's Gemini API.
-
-Features
-
-- AI Chat
-- JSON Parsing
-- REST APIs
-- Prompt Handling
-
----
-
-## 📊 Karthikeya Excel
-
-AI-powered spreadsheet application.
-
-Features
-
-- Spreadsheet Engine
-
-- AI Assistant
-
-- Custom Themes
-
-- Productivity Tools
+✅ Technical Team Leadership
 
 ---
 
 # 📚 Currently Learning
 
-✔ AI Agents
-
-✔ LLM Engineering
-
-✔ RAG Applications
-
-✔ ASP.NET Core
-
-✔ AI Automation
-
-✔ Cloud AI Services
-
----
-
-# 🏆 Certifications
-
-🏅 Oracle Cloud Infrastructure Foundation Associate
-
-🏅 IBM - Getting Started with AI
-
-🏅 Microsoft - Foundation of C#
-
-🏅 Prompt Engineering
-
-🏅 AI Data Engineering
-
-🏅 Infosys Springboard
+- 🤖 Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 💬 Chatbot Development
+- ⚡ Vibe Coding
+- 🏗️ Software Architecture Design
+- 🧩 AI Application Development
+- 📖 Natural Language Processing (NLP)
+- 🛠️ AI Development Tools
+- 🎯 Prompt Engineering
+- 🚀 .NET Application Development
 
 ---
 
-# 💼 Experience
+# 💻 Tech Stack
 
-## Internship Head
+## 🤖 Artificial Intelligence
 
-Gnanadhara Foundation
+<p>
 
-- Managing internship programs
+<img src="https://skillicons.dev/icons?i=python"/>
 
-- Mentoring students
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
 
-- Technical Sessions
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00C853?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/RAG-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-3949AB?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## ⚙️ Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧰 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://img.shields.io/badge/Base44-AI-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 👥 Leadership & HR Skills
+
+- Human Resource Management
+- Talent Acquisition
+- Recruitment Process
+- Internship Program Management
 - Team Leadership
+- Team Management
+- Candidate Screening
+- Job Description Analysis
+- Communication
+- Mentoring
+- Curriculum Planning
+- Technical Coordination
+- Problem Solving
+- Stakeholder Collaboration
 
 ---
 
-## AI Developer
-
-Summer of AI
-
-- AI Development
-
-- LLM Projects
-
-- Collaboration
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanagantikarthikeya&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanagantikarthikeya&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanagantikarthikeya&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanagantikarthikeya&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vanagantikarthikeya&theme=tokyonight&row=2&column=4"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-🚀 Become an AI Engineer
-
-🤖 Build Production Ready AI Products
-
-🧠 Master AI Agents
-
-🌍 Contribute to Open Source
-
-☁ Learn Advanced Cloud AI
-
-💼 Secure an AI Engineer Role
-
----
-
-# 🌐 Connect With Me
-
-📧 Email
-
-kartiktony86@gmail.com
-
----
-
-💼 LinkedIn
-
-https://linkedin.com/in/karthikeya-vanaganti
-
----
-
-🌐 Portfolio
-
-https://portfoliokarthikeya.lovable.app/
-
----
-
-# 💡 Fun Fact
+# ⚡ Core Strengths
 
 ```text
-while(alive)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
+🤖 Artificial Intelligence
+
+💻 Software Development
+
+⚡ Vibe Coding
+
+🧠 Prompt Engineering
+
+🏗️ Software Architecture
+
+📈 Team Leadership
+
+👥 Human Resource Management
+
+🚀 AI Application Development
+
+🎯 Continuous Learning
+
+🌍 Real World Problem Solving
 ```
 
 ---
 
 <div align="center">
 
-# ⭐ "Building Intelligent Applications with AI"
-
-### Thanks for visiting my profile!
-
-⭐ Don't forget to follow and explore my repositories!
+## ⭐ "Building Intelligent Software. Leading Teams. Learning Every Day."
 
 </div>
+
+---
